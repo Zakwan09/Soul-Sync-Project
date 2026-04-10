@@ -10,9 +10,9 @@ SoulSync is a modern and interactive platform designed to connect users and stre
 - Scalable and flexible system design  
 
 ## 🛠️ Technologies Used
-- Programming Language: (Add yours, e.g., Python / Java / JavaScript)
-- Database: (MySQL / MongoDB / etc.)
-- Tools & Frameworks: (e.g., React, Node.js, Flask, etc.)
+- Programming Language: ( Python )
+- Database: Postgre SQL
+- Tools & Frameworks: (Flask,HTML , CSS ,JS)
 
 ## 📌 Project Objective
 The main goal of SoulSync is to build a reliable platform that enhances communication and interaction between users while maintaining performance, security, and usability.
@@ -23,7 +23,3 @@ The main goal of SoulSync is to build a reliable platform that enhances communic
 - Mobile application support  
 - Improved UI/UX design  
 
-## 📂 Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/SoulSync.git
